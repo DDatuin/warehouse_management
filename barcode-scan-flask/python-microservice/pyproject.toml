@@ -1,0 +1,16 @@
+[project]
+name = "python-microservice"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "flask>=3.1.1",
+    "flask-cors>=6.0.1",
+    "pandas>=2.3.2",
+    "pillow>=11.3.0",
+    "psycopg2>=2.9.10",
+    "pyzbar>=0.1.9",
+    "requests>=2.32.5",
+]
